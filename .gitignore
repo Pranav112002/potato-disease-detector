@@ -1,1 +1,5 @@
 env/
+*.h5
+__pycache__/
+*.pyc
+.DS_Store
